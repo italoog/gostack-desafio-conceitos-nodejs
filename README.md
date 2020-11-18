@@ -1,4 +1,4 @@
-<img alt="GoStack" src="https://github.com/italoog/conceitos-nodejs/blob/master/assets/challenge-02-thumb.png" />
+<img alt="GoStack" src="https://github.com/italoog/gostack-desafio-conceitos-nodejs/blob/master/assets/challenge-02-thumb.png" />
 
 <h3 align="center">
   Desafio 02: Conceitos do Node.js
@@ -7,7 +7,7 @@
 <blockquote align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/italoog/conceitos-nodejs?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/italoog/gostack-desafio-conceitos-nodejs?color=%2304D361">
 
   <a href="https://www.linkedin.com/in/italoog/">
     <img alt="Made by italoog" src="https://img.shields.io/badge/made%20by-italoog-%2304D361">
